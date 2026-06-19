@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce lejano, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Roce lejano, Vol. 2** (roce-lejano-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T21:49:54.553177 | `v1` | `d98438423b95fb1fa62ffb080f15c81a998c42c78bc34ee986d9d83a331ec770` | `332478bc58d3e45fe5b786f560ec71d6b2e541a3054aa0103796b7f2abc86cf6` | `2026-06-19_roce-lejano-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

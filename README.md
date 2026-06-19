@@ -1,4 +1,4 @@
-# Roce lejano
+# Roce lejano, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Roce lejano |
+| **Title** | Roce lejano, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-lejano/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Roce lejano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-lejano/) |
+| **Get License** | [Commercial Licensing for Roce lejano, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-lejano/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La noche está oscura pero tú brillas como luna
+> Quiero perderme en tu cuerpo, sin dejar ninguna duda
+> Acércate un poquito, que la tensión me tortura
+> Eres mi vicio secreto, mi más dulce locura
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d98438423b95fb1fa62ffb080f15c81a998c42c78bc34ee986d9d83a331ec770` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
